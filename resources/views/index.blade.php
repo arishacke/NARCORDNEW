@@ -142,7 +142,6 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="renderer" content="webkit">
-  <link rel="icon" href="https://res.cloudinary.com/dwsla5hkc/image/upload/v1716839385/img_avatar2_eo4g87.png">
   <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
   <meta name="theme-color" content="#000000">
   <meta httpequiv="Cache-Control" content="no-cache, max-age=0, must-revalidate">
@@ -2746,7 +2745,7 @@
                     <div class="css-6ljh47">
                       <div id="hook_nav_links" class="css-6qnjre">
                         <div class="css-6qnjre">
-                          <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IWda4e_2J6hwZXWbJ0DL9SeDN7Zyc6VU12aA30TiaQ&s" aria-label="Kucoin logo (header)" class="css-1evik99">
+                          <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IWda4e_2J6hwZXWbJ0DL9SeDN7Zyc6VU12aA30TiaQ&s" aria-label=" logo (header)" class="css-1evik99">
                           </a>
                         </div>
                       </div>
