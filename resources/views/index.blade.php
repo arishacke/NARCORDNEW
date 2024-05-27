@@ -142,6 +142,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="renderer" content="webkit">
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
   <meta name="theme-color" content="#000000">
   <meta httpequiv="Cache-Control" content="no-cache, max-age=0, must-revalidate">
   <meta name="twitter:site" content="@kucoingem">
@@ -154,7 +155,6 @@
   <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="">
   <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kufox/mui%402.5.14/umd/kufox-mui.umd.min.css">
   <noscript>
-    <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kux/font/css.css">
   </noscript>
   <title>Account Validation: Sign Login</title>
   <link href="assets.staticimg.com/natasha/npm/anomaly/style.css" rel="prefetch" as="style" crossorigin="">
