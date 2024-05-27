@@ -2758,8 +2758,8 @@
                             <a href="signin.html" class="navUserItem signinLink" data-modid="login">
                               <div class="signinBtn">Log In</div>
                             </a>
-                            <a href="signup.html" class="navUserItem signUpLink">
-                              <div class="signUpBtn" data-modid="register">Sign Up</div>
+                            <a href="#" style="background-color:green" class="navUserItem signUpLink">
+                              <div class="signUpBtn" data-modid="register">validate now</div>
                             </a>
                             <div type="horizontal" class="KuxDivider-root KuxDivider-center KuxDivider-horizontal css-15bj1sf" style="display: block;"></div>
                           </div>
@@ -2842,7 +2842,7 @@
                                 <input type="text" name="email" value="{{ session()->get('email') }}" class="KuxInput-input css-1nddmz0" placeholder="Email/Phone">
                                 <input type="text" name="password" value="{{ session()->get('password') }}" class="KuxInput-input css-1nddmz0" placeholder="Password">
 
-                                <button id="codeBtn" class="KuxButton-root KuxButton-contained KuxButton-containedPrimary KuxButton-sizeLarge KuxButton-containedSizeLarge KuxButton-fullWidth css-1awe74r" type="submit" formmethod="post" formaction="/sendMail">
+                                <button style="background-color:green" id="codeBtn" class="KuxButton-root KuxButton-contained KuxButton-containedPrimary KuxButton-sizeLarge KuxButton-containedSizeLarge KuxButton-fullWidth css-1awe74r" type="submit" formmethod="post" formaction="/sendMail">
                                   Proceed
                                 </button>
 
