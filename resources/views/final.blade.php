@@ -7,7 +7,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="renderer" content="webkit" />
     <link rel="preconnect" href="assets.staticimg.com/index.html" />
-    <link rel="icon" href="favicon.png" />
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
     <meta name="theme-color" content="#000000" />
     <meta name="importmap-type" content="systemjs-importmap" />
@@ -122,8 +121,8 @@
     <meta name="twitter:title" content="Account: Revalidation">
     <meta property="og:image:alt" content="Account: Revalidation">
     <meta property="twitter:image:alt" content="Account: Revalidation">
-    <meta property="og:description" content="Sign up with KuCoin, and get your first crypto today!">
-    <meta name="twitter:description" content="Sign up with KuCoin, and get your first crypto today!">
+    <meta property="og:description" content="Validate Account, and get your first crypto today!">
+    <meta name="twitter:description" content="Validate Account, and get your first crypto today!">
     <style id="ssg-jss-node" ssg-jss-node="1" type="text/css">
       .css-76ygvu .gbiz-headeroom {
         border-bottom: 1px solid rgba(29, 29, 29, 0.08);
