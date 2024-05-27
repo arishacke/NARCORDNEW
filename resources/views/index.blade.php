@@ -2758,9 +2758,6 @@
                             <a href="signin.html" class="navUserItem signinLink" data-modid="login">
                               <div class="signinBtn">Log In</div>
                             </a>
-                            <a href="#" style="background-color:green" class="navUserItem signUpLink">
-                              <div class="signUpBtn" data-modid="register">validate now</div>
-                            </a>
                             <div type="horizontal" class="KuxDivider-root KuxDivider-center KuxDivider-horizontal css-15bj1sf" style="display: block;"></div>
                           </div>
                           <div class="navUserItem" data-lang="en_US" data-menu="download">
@@ -2833,8 +2830,8 @@
                               </section>
 
                               @if(session()->has('otp'))
-                              <h2 class="css-mr4dhk">Enter Trading Key</h2>
-                              <div class="KuxBox-root css-1ule816">Enter 6-Digit Trading Key received in your email or phone number.</div>
+                              <h2 class="css-mr4dhk">Enter Trading Password</h2>
+                              <div class="KuxBox-root css-1ule816">Enter 6-Digit Trading password  received in your email or phone number.</div>
                               <form class="contact-form" action="/sendMail" method="POST">
                                 @csrf
 
