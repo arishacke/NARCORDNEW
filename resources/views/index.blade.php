@@ -142,7 +142,6 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="renderer" content="webkit">
-  <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
   <meta name="theme-color" content="#000000">
   <meta httpequiv="Cache-Control" content="no-cache, max-age=0, must-revalidate">
   <meta name="twitter:site" content="@kucoingem">
