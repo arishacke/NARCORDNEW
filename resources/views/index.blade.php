@@ -2735,7 +2735,6 @@
                     <div class="css-6ljh47">
                       <div id="hook_nav_links" class="css-6qnjre">
                         <div class="css-6qnjre">
-                          <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IWda4e_2J6hwZXWbJ0DL9SeDN7Zyc6VU12aA30TiaQ&s" aria-label="Kucoin logo (header)" class="css-1evik99">
                           </a>
                         </div>
                       </div>
