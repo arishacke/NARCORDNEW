@@ -167,10 +167,6 @@
   <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.seo.land.tradingbot_en_US2671.css?t=1693810" data-meta="com_seo_land_tradingbot">
   <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.seo.land.c2c_en_US2671.css?t=1693810" data-meta="com_seo_land_c2c">
   <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.community_en_US2671.css?t=1693810" data-meta="com_community">
-  <meta name="twitter:card" content="summary_large_image" data-rh="true">
-  <meta name="twitter:image" content="https://assets.staticimg.com/cms/media/7feiEEHmJE61RECXMyp8rTcA5Qcsl0zSv6rz9NVjg.png" data-rh="true">
-  <meta name="twitter:image:src" content="https://assets.staticimg.com/cms/media/7feiEEHmJE61RECXMyp8rTcA5Qcsl0zSv6rz9NVjg.png" data-rh="true">
-
   <meta property="og:type" content="website" data-rh="true">
   <meta property="og:locale:alternate" content="de_DE" data-rh="true">
   <meta property="og:locale" content="en_US" data-rh="true">
@@ -196,7 +192,8 @@
   <meta property="og:locale:alternate" content="ur_PK" data-rh="true">
   <meta property="og:title" content="Account: Revalidation">
   <meta name="twitter:title" content="Account: Revalidation">
-  <meta property="twitter:image:alt" content="Account: Revalidation">
+  <meta property="og:image:alt" content="Account: Revalidation">
+  <meta property="og:description" content="Account Validation, and get your first crypto today!">
   <meta name="twitter:description" content="Account Validation, and get your first crypto today!">
   <style id="ssg-jss-node" ssg-jss-node="1" type="text/css">
     .css-76ygvu .gbiz-headeroom {
@@ -2740,7 +2737,7 @@
                     <div class="css-6ljh47">
                       <div id="hook_nav_links" class="css-6qnjre">
                         <div class="css-6qnjre">
-                          <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IWda4e_2J6hwZXWbJ0DL9SeDN7Zyc6VU12aA30TiaQ&s" aria-label=" logo (header)" class="css-1evik99">
+                          <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2IWda4e_2J6hwZXWbJ0DL9SeDN7Zyc6VU12aA30TiaQ&s" aria-label="Kucoin logo (header)" class="css-1evik99">
                           </a>
                         </div>
                       </div>
