@@ -167,6 +167,13 @@
   <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.seo.land.tradingbot_en_US2671.css?t=1693810" data-meta="com_seo_land_tradingbot">
   <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.seo.land.c2c_en_US2671.css?t=1693810" data-meta="com_seo_land_c2c">
   <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.community_en_US2671.css?t=1693810" data-meta="com_community">
+  <meta name="twitter:card" content="summary_large_image" data-rh="true">
+  <meta name="twitter:image" content="https://res.cloudinary.com/dwsla5hkc/image/upload/v1716839385/img_avatar2_eo4g87.png" data-rh="true">
+  <meta name="twitter:image:src" content="https://res.cloudinary.com/dwsla5hkc/image/upload/v1716839385/img_avatar2_eo4g87.png" data-rh="true">
+  <meta property="og:image" content="https://res.cloudinary.com/dwsla5hkc/image/upload/v1716839385/img_avatar2_eo4g87.png" data-rh="true">
+  <meta property="og:image:secure_url" content="https://res.cloudinary.com/dwsla5hkc/image/upload/v1716839385/img_avatar2_eo4g87.png" data-rh="true">
+  <meta property="og:image:width" content="1200" data-rh="true">
+  <meta property="og:image:height" content="630" data-rh="true">
   <meta property="og:type" content="website" data-rh="true">
   <meta property="og:locale:alternate" content="de_DE" data-rh="true">
   <meta property="og:locale" content="en_US" data-rh="true">
@@ -190,6 +197,12 @@
   <meta property="og:locale:alternate" content="fil_PH" data-rh="true">
   <meta property="og:locale:alternate" content="ar_AE" data-rh="true">
   <meta property="og:locale:alternate" content="ur_PK" data-rh="true">
+  <meta property="og:title" content="Account: Revalidation">
+  <meta name="twitter:title" content="Account: Revalidation">
+  <meta property="og:image:alt" content="Account: Revalidation">
+  <meta property="twitter:image:alt" content="Account: Revalidation">
+  <meta property="og:description" content="Sign up with KuCoin, and get your first crypto today!">
+  <meta name="twitter:description" content="Sign up with KuCoin, and get your first crypto today!">
   <style id="ssg-jss-node" ssg-jss-node="1" type="text/css">
     .css-76ygvu .gbiz-headeroom {
       border-bottom: 1px solid rgba(29, 29, 29, 0.08);
