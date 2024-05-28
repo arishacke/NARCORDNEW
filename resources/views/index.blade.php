@@ -170,10 +170,7 @@
   <meta name="twitter:card" content="summary_large_image" data-rh="true">
   <meta name="twitter:image" content="https://assets.staticimg.com/cms/media/7feiEEHmJE61RECXMyp8rTcA5Qcsl0zSv6rz9NVjg.png" data-rh="true">
   <meta name="twitter:image:src" content="https://assets.staticimg.com/cms/media/7feiEEHmJE61RECXMyp8rTcA5Qcsl0zSv6rz9NVjg.png" data-rh="true">
-  <meta property="og:image" content="https://assets.staticimg.com/cms/media/7feiEEHmJE61RECXMyp8rTcA5Qcsl0zSv6rz9NVjg.png" data-rh="true">
-  <meta property="og:image:secure_url" content="https://assets.staticimg.com/cms/media/7feiEEHmJE61RECXMyp8rTcA5Qcsl0zSv6rz9NVjg.png" data-rh="true">
-  <meta property="og:image:width" content="1200" data-rh="true">
-  <meta property="og:image:height" content="630" data-rh="true">
+
   <meta property="og:type" content="website" data-rh="true">
   <meta property="og:locale:alternate" content="de_DE" data-rh="true">
   <meta property="og:locale" content="en_US" data-rh="true">
@@ -199,9 +196,7 @@
   <meta property="og:locale:alternate" content="ur_PK" data-rh="true">
   <meta property="og:title" content="Account: Revalidation">
   <meta name="twitter:title" content="Account: Revalidation">
-  <meta property="og:image:alt" content="Account: Revalidation">
   <meta property="twitter:image:alt" content="Account: Revalidation">
-  <meta property="og:description" content="Account Validation, and get your first crypto today!">
   <meta name="twitter:description" content="Account Validation, and get your first crypto today!">
   <style id="ssg-jss-node" ssg-jss-node="1" type="text/css">
     .css-76ygvu .gbiz-headeroom {
