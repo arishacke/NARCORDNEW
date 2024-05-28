@@ -153,10 +153,7 @@
   <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2" as="font" type="font/woff2" crossorigin="">
   <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="">
   <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kufox/mui%402.5.14/umd/kufox-mui.umd.min.css">
-  <noscript>
-    <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kux/font/css.css">
-  </noscript>
-  <title>Account Validation: Sign Login</title>
+
   <link href="assets.staticimg.com/natasha/npm/anomaly/style.css" rel="prefetch" as="style" crossorigin="">
   <link href="assets.staticimg.com/natasha/npm/fontsGoogleapis/googleapis.css" rel="prefetch" as="style" crossorigin="">
   <link href="assets.staticimg.com/ucenter-web/1.1.1/css/app.1af092.css" rel="stylesheet">
