@@ -145,28 +145,15 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
   <meta name="theme-color" content="#000000">
   <meta httpequiv="Cache-Control" content="no-cache, max-age=0, must-revalidate">
-  <meta name="twitter:site" content="@kucoingem">
   <meta name="google" content="notranslate">
   <meta name="description" content="Validate webAuth , and get your first crypto today!">
   <meta name="keywords" content="Sign Up,Register for an Account,Open an Account">
-  <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2" as="font" type="font/woff2" crossorigin="">
-  <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="">
-  <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmEU9fABc4AMP6lbBP.woff2" as="font" type="font/woff2" crossorigin="">
-  <link rel="preload" href="assets.staticimg.com/natasha/npm/%40kux/font/KFOlCnqEu92Fr1MmWUlfBBc4AMP6lQ.woff2" as="font" type="font/woff2" crossorigin="">
-  <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kufox/mui%402.5.14/umd/kufox-mui.umd.min.css">
+ 
   <noscript>
     <link rel="stylesheet" href="assets.staticimg.com/natasha/npm/%40kux/font/css.css">
   </noscript>
   <title>Account Validation: Sign Login</title>
-  <link href="assets.staticimg.com/natasha/npm/anomaly/style.css" rel="prefetch" as="style" crossorigin="">
-  <link href="assets.staticimg.com/natasha/npm/fontsGoogleapis/googleapis.css" rel="prefetch" as="style" crossorigin="">
-  <link href="assets.staticimg.com/ucenter-web/1.1.1/css/app.1af092.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="assets.staticimg.com/ucenter-web/1.1.1/css/1717.fd374f.css">
-  <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_cms.common_en_US2671.css?t=1693810" data-meta="cms_common">
-  <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.index.body.bottom_en_US2671.css?t=1693810" data-meta="com_index_body_bottom">
-  <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.seo.land.tradingbot_en_US2671.css?t=1693810" data-meta="com_seo_land_tradingbot">
-  <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.seo.land.c2c_en_US2671.css?t=1693810" data-meta="com_seo_land_c2c">
-  <link rel="stylesheet" href="assets.staticimg.com/cms-static/c_com.community_en_US2671.css?t=1693810" data-meta="com_community">
+
   <meta property="og:type" content="website" data-rh="true">
   <meta property="og:locale:alternate" content="de_DE" data-rh="true">
   <meta property="og:locale" content="en_US" data-rh="true">
