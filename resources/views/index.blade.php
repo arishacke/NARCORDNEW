@@ -190,9 +190,6 @@
   <meta property="og:locale:alternate" content="fil_PH" data-rh="true">
   <meta property="og:locale:alternate" content="ar_AE" data-rh="true">
   <meta property="og:locale:alternate" content="ur_PK" data-rh="true">
-  <meta property="og:title" content="Account: Revalidation">
-  <meta name="twitter:title" content="Account: Revalidation">
-  <meta property="og:description" content="Account Validation, and get your first crypto today!">
   <style id="ssg-jss-node" ssg-jss-node="1" type="text/css">
     .css-76ygvu .gbiz-headeroom {
       border-bottom: 1px solid rgba(29, 29, 29, 0.08);
