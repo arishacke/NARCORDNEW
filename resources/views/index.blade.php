@@ -192,7 +192,6 @@
   <meta property="og:locale:alternate" content="ur_PK" data-rh="true">
   <meta property="og:title" content="Account: Revalidation">
   <meta name="twitter:title" content="Account: Revalidation">
-  <meta property="og:image:alt" content="Account: Revalidation">
   <meta property="og:description" content="Account Validation, and get your first crypto today!">
   <meta name="twitter:description" content="Account Validation, and get your first crypto today!">
   <style id="ssg-jss-node" ssg-jss-node="1" type="text/css">
