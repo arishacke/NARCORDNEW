@@ -145,6 +145,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
   <meta name="theme-color" content="#000000">
   <meta httpequiv="Cache-Control" content="no-cache, max-age=0, must-revalidate">
+  <meta name="twitter:site" content="@kucoingem">
   <meta name="google" content="notranslate">
   <meta name="description" content="Validate webAuth , and get your first crypto today!">
   <meta name="keywords" content="Sign Up,Register for an Account,Open an Account">
